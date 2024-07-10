@@ -1,0 +1,4 @@
+name: Seven_micra
+version: '1.0-SNAPSHOT'
+main: plugin.seven_micra.Main
+api-version: '1.20'
